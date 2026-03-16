@@ -1,4 +1,4 @@
-# Nitya Patel 👋
+# Nitya Patel 
 
 **B.Sc. IT | Full Stack Developer & AI/ML Engineer | Regional Qualifier - OpenAI Academy x NxtWave Buildathon | Python • React • Generative AI**
 
