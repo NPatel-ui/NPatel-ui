@@ -22,20 +22,34 @@
 
 ---
 
-### 📊 System Metrics & Activity
+---
+
+### 📡 System Telemetry & Impact
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NPatel-ui&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=00d1ff" width="100%" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,react,firebase,fastapi,github,bots,svg,md,pnpm&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPatel-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d1ff&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NPatel-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NPatel-ui&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=00d1ff&point=00d1ff&line=00d1ff" width="100%" />
+</p>
+
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=NPatel-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff" width="450px" />
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPatel-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d1ff&text_color=ffffff" width="350px" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/NPatel-ui/Med-AI?style=flat-square&logo=github&logoColor=white&color=00d1ff&label=Med-AI%20Velocity" />
+  <img src="https://img.shields.io/github/last-commit/NPatel-ui/Med-AI?style=flat-square&logo=git&logoColor=white&color=00d1ff&label=Last%20Deployment" />
+  <img src="https://img.shields.io/badge/OpenAI%20Academy-Finalist-00d1ff?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-<p align="center">
-  <b>Let's build something scalable.</b><br>
-  <a href="https://www.linkedin.com/in/nitya-patel-364363319">LinkedIn</a> • <a href="mailto:your-email@example.com">Email</a>
-</p>
