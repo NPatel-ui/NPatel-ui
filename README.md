@@ -1,12 +1,25 @@
-# Nitya Patel 
+<h1 align="center">Nitya Patel</h1>
 
-**B.Sc. IT | Full Stack Developer & AI/ML Engineer | Regional Qualifier - OpenAI Academy x NxtWave Buildathon | Python • React • Generative AI**
+<p align="center">
+B.Sc. IT • Full Stack Developer • AI/ML Engineer  
+<br>
+Regional Qualifier — OpenAI Academy × NxtWave Buildathon  
+<br>
+Python • React • Generative AI
+</p>
 
 ---
 
-### 🛠️ Technical Ecosystem
+## 🧠 Developer Profile
 
-| **AI & Machine Learning** | **Data Engineering** | **Full Stack Dev** |
+I design and build **AI-powered applications and scalable full-stack systems**.  
+My work focuses on combining **Machine Learning pipelines with modern web architectures** to deliver intelligent, production-ready applications.
+
+---
+
+## 🛠 Technical Ecosystem
+
+| AI & Machine Learning | Data Engineering | Full Stack Development |
 | :--- | :--- | :--- |
 | <img src="https://img.icons8.com/color/24/000000/python--v1.png"/> **Python** | <img src="https://img.icons8.com/color/24/000000/numpy.png"/> **NumPy** | <img src="https://img.icons8.com/color/24/000000/react-native.png"/> **React.js** |
 | <img src="https://img.icons8.com/color/24/000000/pytorch.png"/> **PyTorch** | <img src="https://img.icons8.com/color/24/000000/pandas.png"/> **Pandas** | <img src="https://img.icons8.com/color/24/000000/firebase.png"/> **Firebase** |
@@ -14,42 +27,84 @@
 
 ---
 
-### 🚀 Flagship Implementation: Med-AI
-**Ensemble Learning for Symptom-Based Diagnosis**
-* **Intelligence:** Built a predictive pipeline using `Scikit-learn` and `PyTorch`.
-* **Data:** Engineered high-performance processing via `NumPy` and `Pandas`.
-* **Cloud:** Integrated `React.js` with `Firebase` for real-time state management.
+# 🚀 Flagship Implementation
+
+## 🧬 Med-AI  
+**Ensemble Learning for Symptom-Based Disease Prediction**
+
+A machine learning powered medical assistant designed to **predict diseases based on symptom inputs** using ensemble learning models.
+
+### ⚙️ System Architecture
+
+**Intelligence Layer**
+- Built ML pipeline using **Scikit-learn and PyTorch ensemble models**
+
+**Data Processing**
+- High-performance data engineering using **NumPy and Pandas**
+
+**Application Layer**
+- Interactive frontend built with **React.js**
+
+**Cloud & State Management**
+- Real-time backend integration using **Firebase**
 
 ---
 
----
-
-### 📡 System Telemetry & Impact
+## 📡 System Telemetry
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,react,firebase,fastapi,github,bots,svg,md,pnpm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,react,firebase,fastapi,github,md,svg,pnpm&theme=dark" />
 </p>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NPatel-ui&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=00d1ff&point=00d1ff&line=00d1ff" width="100%" />
 </p>
 
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=NPatel-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff" width="450px" />
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPatel-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d1ff&text_color=ffffff" width="350px" />
-    </td>
-  </tr>
+<table align="center">
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=NPatel-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff" width="450px" />
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPatel-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d1ff&text_color=ffffff" width="350px" />
+
+</td>
+</tr>
 </table>
 
+---
+
+## 🏆 Achievements
+
+🏅 **Regional Qualifier**  
+OpenAI Academy × NxtWave Buildathon
+
+🚀 Developed **Med-AI**, an AI-powered disease prediction system integrating ML models with full-stack architecture.
+
+---
+
+## ⚡ Development Metrics
+
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/NPatel-ui/Med-AI?style=flat-square&logo=github&logoColor=white&color=00d1ff&label=Med-AI%20Velocity" />
-  <img src="https://img.shields.io/github/last-commit/NPatel-ui/Med-AI?style=flat-square&logo=git&logoColor=white&color=00d1ff&label=Last%20Deployment" />
-  <img src="https://img.shields.io/badge/OpenAI%20Academy-Finalist-00d1ff?style=flat-square&logo=openai&logoColor=white" />
+
+<img src="https://img.shields.io/github/commit-activity/m/NPatel-ui/Med-AI?style=flat-square&logo=github&logoColor=white&color=00d1ff&label=Med-AI%20Velocity" />
+
+<img src="https://img.shields.io/github/last-commit/NPatel-ui/Med-AI?style=flat-square&logo=git&logoColor=white&color=00d1ff&label=Last%20Deployment" />
+
+<img src="https://img.shields.io/badge/OpenAI%20Academy-Buildathon%20Qualifier-00d1ff?style=flat-square&logo=openai&logoColor=white" />
+
 </p>
 
 ---
 
+<p align="center">
+⭐ Building intelligent software that merges AI with real-world applications
+</p>
