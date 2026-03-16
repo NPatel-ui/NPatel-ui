@@ -1,24 +1,31 @@
 # Nitya Patel | AI & Software Engineer ⚡
 
-I build data-driven systems and intelligent automation. Currently a **Data Analyst at NullClass** and an **OpenAI Academy Buildathon Qualifier**, I focus on the intersection of Generative AI and scalable software architecture.
+I architect intelligent, data-driven systems with a focus on **Ensemble Learning** and **Predictive Analytics**. Currently serving as a **Data Analyst at NullClass** and recognized as a **NASA Space Apps Winner**, I specialize in building scalable AI solutions that solve high-stakes problems.
 
 ---
 
-### 🏆 Distinguished Accomplishments
+### 🏆 Distinguished Engineering Honors
 * **Galactic Problem Solver** – NASA Space Apps Challenge (Oct 2025)
 * **Regional Qualifier** – OpenAI Academy x NxtWave Buildathon
-* **AI Upskilling Graduate** – Qualcomm Technical Foundations (Nov 2025)
+* **AI Upskilling Graduate** – Qualcomm Technical Foundations
 
 ---
 
-### 🛠️ Technology Stack
+### 🛠️ Strategic Tech Stack
 | Domain | Expertise |
 | :--- | :--- |
-| **Artificial Intelligence** | Python, PyTorch (NASA project), Scikit-learn, OpenCV |
-| **Data Engineering** | SQL, Pandas, NumPy, Data Analysis (NullClass) |
-| **Full Stack** | React.js, FastAPI, Firebase, Generative AI |
+| **Deep Learning & AI** | PyTorch, Scikit-Learn, NumPy, Pandas |
+| **Data Engineering** | SQL, Matplotlib (Exploratory Data Analysis), Advanced Wrangling |
+| **Full-Stack Architecture** | React.js, FastAPI, Firebase (NoSQL & Auth) |
 
 ---
+
+### 🚀 Flagship Project: Med-AI
+**[Med-AI Repository](https://github.com/NPatel-ui/Med-AI)** *An advanced diagnostic intelligence system utilizing Ensemble Learning for symptom-based disease prediction.*
+
+* **Engineering Impact:** Built a robust predictive pipeline using Scikit-learn and PyTorch to minimize false negatives in diagnostic suggestions.
+* **Data Strategy:** Leveraged NumPy and Pandas for high-performance feature engineering and data normalization.
+* **Infrastructure:** Integrated Firebase for secure patient data handling and real-time state management.
 
 ---
 
@@ -41,14 +48,7 @@ I build data-driven systems and intelligent automation. Currently a **Data Analy
 </p>
 
 ---
----
 
-### 📂 High-Signal Projects
-* **[AirControl](https://github.com/NPatel-ui/AirControl)** – Gesture-based PC control using Computer Vision.
-* **[NASA Space Apps Project](https://github.com/NPatel-ui/NASA-Project)** – Solving global challenges with PyTorch and Python.
-* **[Med-AI](https://github.com/NPatel-ui/Med-AI)** – Ensemble learning for symptom-based diagnosis.
-
----
 <p align="center">
   <b>Let's build something scalable.</b><br>
   <a href="https://www.linkedin.com/in/nitya-patel-364363319">LinkedIn</a> • <a href="mailto:your-email@example.com">Email</a>
