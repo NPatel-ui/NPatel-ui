@@ -4,32 +4,34 @@
 
 ---
 
-### 🛠️ Strategic Tech Stack
-| Category | Technologies |
-| :--- | :--- |
-| **Artificial Intelligence** | `Python` `PyTorch` `Scikit-Learn` |
-| **Data Science** | `NumPy` `Pandas` `Matplotlib` |
-| **Full Stack** | `React.js` `FastAPI` `Firebase` |
+### 🛠️ Technical Ecosystem
+**AI & Neural Networks (PyTorch, Scikit-learn)**
+![AI](https://geps.dev/progress/85?dangerColor=00d1ff&warningColor=00d1ff&successColor=00d1ff)
+
+**Data Engineering (NumPy, Pandas, Matplotlib)**
+![Data](https://geps.dev/progress/90?dangerColor=00d1ff&warningColor=00d1ff&successColor=00d1ff)
+
+**Full Stack Architecture (React, FastAPI, Firebase)**
+![Fullstack](https://geps.dev/progress/75?dangerColor=00d1ff&warningColor=00d1ff&successColor=00d1ff)
 
 ---
 
-### 🚀 Featured Project: Med-AI
+### 🚀 Flagship Implementation: Med-AI
 **Ensemble Learning for Symptom-Based Diagnosis**
-* **Core Logic:** Developed a predictive pipeline using `Scikit-learn` and `PyTorch` for multi-disease classification.
-* **Data Pipeline:** Engineered high-performance data processing using `NumPy` and `Pandas`.
-* **Implementation:** Integrated a `React.js` frontend with `Firebase` for secure data handling.
+* **Intelligence:** Built a predictive pipeline using `Scikit-learn` and `PyTorch`.
+* **Data:** Engineered high-performance processing via `NumPy` and `Pandas`.
+* **Cloud:** Integrated `React.js` with `Firebase` for real-time state management.
 
 ---
 
-### 📈 Metrics of Impact
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NPatel-ui&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPatel-ui&layout=compact&theme=tokyonight&hide_border=true&title_color=00d1ff&text_color=ffffff&bg_color=00000000" width="48%" />
+### 📊 System Metrics & Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NPatel-ui&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=00d1ff" width="100%" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NPatel-ui&theme=tokyonight&hide_border=true&background=00000000&sideNums=00d1ff&stroke=00d1ff&fire=00d1ff" alt="GitHub Streak" width="100%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPatel-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d1ff&text_color=ffffff" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NPatel-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff" width="45%" />
 </p>
 
 ---
