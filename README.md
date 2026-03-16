@@ -20,12 +20,27 @@ I build data-driven systems and intelligent automation. Currently a **Data Analy
 
 ---
 
+---
+
 ### 📈 Metrics of Impact
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NPatel-ui&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPatel-ui&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=NPatel-ui&theme=tokyonight&no-bg=true&margin-w=4" alt="trophy" />
+  </a>
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=NPatel-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d1ff&icon_color=00d1ff&text_color=c9d1d9" height="175" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPatel-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d1ff&text_color=c9d1d9" height="175" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NPatel-ui&theme=tokyonight&hide_border=true&background=0D1117&sideNums=00d1ff&stroke=00d1ff&fire=00d1ff" alt="streak stats" />
+</p>
+
+---
 ---
 
 ### 📂 High-Signal Projects
