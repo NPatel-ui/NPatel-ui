@@ -5,14 +5,12 @@
 ---
 
 ### 🛠️ Technical Ecosystem
-**AI & Neural Networks (PyTorch, Scikit-learn)**
-![AI](https://geps.dev/progress/85?dangerColor=00d1ff&warningColor=00d1ff&successColor=00d1ff)
 
-**Data Engineering (NumPy, Pandas, Matplotlib)**
-![Data](https://geps.dev/progress/90?dangerColor=00d1ff&warningColor=00d1ff&successColor=00d1ff)
-
-**Full Stack Architecture (React, FastAPI, Firebase)**
-![Fullstack](https://geps.dev/progress/75?dangerColor=00d1ff&warningColor=00d1ff&successColor=00d1ff)
+| **AI & Machine Learning** | **Data Engineering** | **Full Stack Dev** |
+| :--- | :--- | :--- |
+| <img src="https://img.icons8.com/color/24/000000/python--v1.png"/> **Python** | <img src="https://img.icons8.com/color/24/000000/numpy.png"/> **NumPy** | <img src="https://img.icons8.com/color/24/000000/react-native.png"/> **React.js** |
+| <img src="https://img.icons8.com/color/24/000000/pytorch.png"/> **PyTorch** | <img src="https://img.icons8.com/color/24/000000/pandas.png"/> **Pandas** | <img src="https://img.icons8.com/color/24/000000/firebase.png"/> **Firebase** |
+| <img src="https://img.icons8.com/color/24/000000/scikit-learn.png"/> **Scikit-Learn** | <img src="https://img.icons8.com/color/24/000000/graph.png"/> **Matplotlib** | <img src="https://img.icons8.com/color/24/000000/api.png"/> **FastAPI** |
 
 ---
 
@@ -25,13 +23,14 @@
 ---
 
 ### 📊 System Metrics & Activity
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NPatel-ui&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=00d1ff" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPatel-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d1ff&text_color=ffffff" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NPatel-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPatel-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d1ff&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NPatel-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff" width="48%" />
 </p>
 
 ---
