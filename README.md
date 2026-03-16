@@ -58,53 +58,50 @@ A machine learning powered medical assistant designed to **predict diseases base
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 Developer Analytics Dashboard
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NPatel-ui&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=00d1ff&point=00d1ff&line=00d1ff" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NPatel-ui&theme=tokyonight&hide_border=true&background=0D1117&ring=00d1ff&fire=00d1ff&currStreakLabel=00d1ff" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=NPatel-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff" width="48%" />
+
 </p>
 
-<table align="center">
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=NPatel-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff" width="450px" />
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPatel-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d1ff&text_color=ffffff" width="350px" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Achievements
-
-🏅 **Regional Qualifier**  
-OpenAI Academy × NxtWave Buildathon
-
-🚀 Developed **Med-AI**, an AI-powered disease prediction system integrating ML models with full-stack architecture.
-
----
-
-## ⚡ Development Metrics
-
 <p align="center">
 
-<img src="https://img.shields.io/github/commit-activity/m/NPatel-ui/Med-AI?style=flat-square&logo=github&logoColor=white&color=00d1ff&label=Med-AI%20Velocity" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPatel-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d1ff&text_color=ffffff" width="40%" />
 
-<img src="https://img.shields.io/github/last-commit/NPatel-ui/Med-AI?style=flat-square&logo=git&logoColor=white&color=00d1ff&label=Last%20Deployment" />
-
-<img src="https://img.shields.io/badge/OpenAI%20Academy-Buildathon%20Qualifier-00d1ff?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NPatel-ui&theme=tokyonight" width="40%" />
 
 </p>
 
 ---
 
+# ⚡ Contribution Activity
+
 <p align="center">
-⭐ Building intelligent software that merges AI with real-world applications
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NPatel-ui&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=00d1ff&point=00d1ff&line=00d1ff" width="100%" />
+
+</p>
+
+---
+
+# 🧠 Technology Stack Usage
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,react,firebase,fastapi,github,md,svg,pnpm&theme=dark" />
+
+</p>
+
+---
+
+# 🏆 Developer Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NPatel-ui&theme=tokyonight&no-frame=true&row=1&column=6" />
+
 </p>
