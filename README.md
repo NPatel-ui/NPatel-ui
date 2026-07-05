@@ -1,3 +1,124 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="45%" stop-color="#0d1b26"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00d1ff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#00d1ff" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7f5af0" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#7f5af0" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d1ff"/>
+      <stop offset="50%" stop-color="#7f5af0"/>
+      <stop offset="100%" stop-color="#00d1ff"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;200%;100%" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <!-- drifting ambient glows -->
+  <circle cx="180" cy="70" r="190" fill="url(#glow1)">
+    <animate attributeName="cx" values="150;340;150" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="70;120;70" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1030" cy="250" r="210" fill="url(#glow2)">
+    <animate attributeName="cx" values="1030;850;1030" dur="13s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="250;190;250" dur="13s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- floating particles -->
+  <g fill="#00d1ff">
+    <circle cx="90" cy="260" r="2.5" opacity="0.7">
+      <animate attributeName="cy" values="260;40;260" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="240" cy="290" r="2" opacity="0.6">
+      <animate attributeName="cy" values="290;30;290" dur="12s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.7;0" dur="12s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="980" cy="280" r="2.5" opacity="0.6">
+      <animate attributeName="cy" values="280;20;280" dur="10s" begin="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="10s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1120" cy="250" r="2" opacity="0.5">
+      <animate attributeName="cy" values="250;10;250" dur="14s" begin="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0" dur="14s" begin="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="300" r="2" opacity="0.5">
+      <animate attributeName="cy" values="300;250;300" dur="8s" begin="0.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.5;0" dur="8s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- name -->
+  <text x="600" y="128" font-family="'Segoe UI', Verdana, Arial, sans-serif" font-size="64" font-weight="700"
+        text-anchor="middle" fill="url(#textGrad)" filter="url(#softGlow)">
+    Nitya Patel
+    <animate attributeName="opacity" values="0.88;1;0.88" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- subtitle -->
+  <text x="600" y="168" font-family="'Segoe UI', Verdana, Arial, sans-serif" font-size="23" font-weight="600"
+        text-anchor="middle" fill="#e9fbff" letter-spacing="1.5">
+    FULL STACK AI DEVELOPER
+  </text>
+
+  <!-- animated underline -->
+  <rect x="600" y="184" width="0" height="3" rx="1.5" fill="#00d1ff">
+    <animate attributeName="width" values="0;280;280;0" keyTimes="0;0.25;0.75;1" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="600;460;460;600" keyTimes="0;0.25;0.75;1" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- cycling tagline (typewriter-style crossfade) -->
+  <text x="600" y="228" font-family="'Fira Code', Consolas, monospace" font-size="18"
+        text-anchor="middle" fill="#8fe3ff" opacity="0">
+    Regional Qualifier — OpenAI Academy × NxtWave Buildathon
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.30;0.34;1"
+             dur="12s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="600" y="228" font-family="'Fira Code', Consolas, monospace" font-size="18"
+        text-anchor="middle" fill="#8fe3ff" opacity="0">
+    Python • React • FastAPI • PyTorch
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.34;0.37;0.63;0.67;1"
+             dur="12s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="600" y="228" font-family="'Fira Code', Consolas, monospace" font-size="18"
+        text-anchor="middle" fill="#8fe3ff" opacity="0">
+    Building Intelligent, Production-Ready Applications
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.67;0.70;0.97;1"
+             dur="12s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- subtle blinking cursor -->
+  <rect x="885" y="215" width="2" height="18" fill="#00d1ff">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.02;0.03;0.98;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
+
+
+
 <div align="center">
 
 <img src="./assets/banner.svg" width="100%"/>
